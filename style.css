@@ -294,10 +294,10 @@ body {
   .box {
     padding: 10px;
     height: 15vh;
-    /* margin-top: 30%; */
+    margin-top: -24%;
   }
   .fylo {
-    /* margin-top: 30%; */
+    margin-top: -20%;
     /* width: 100%; */
     /* padding-bottom: 10px; */
     height: 20vh;
